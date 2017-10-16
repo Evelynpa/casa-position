@@ -1,0 +1,158 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	position: static;
+	background-color: #cceeff;
+	height: 50%
+}
+.pasto{
+	width: 99%;
+	height: 100px;
+	background-color: #00e600;
+	border:3px dotted #00b300;
+	position: relative;
+	top: 550px;
+}
+.base{
+	width: 400px;
+	height: 100px;
+	background-color: #ff66cc;
+	position: relative;
+	top:345px;
+	left: 40%;
+}
+.techo{
+	width:300px;
+    height: 0px;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-bottom: 100px solid #428bca;
+    position: relative;
+    top:150px;
+    left: 39%
+}
+.ventana_1{
+	width: 80px;
+	height: 80px;
+	background: #ffff4d;
+	position: relative;
+	left: 43%;
+	top: 155px;
+}
+.ventana_2{
+	width: 80px;
+	height: 80px;
+	background: #ffff4d;
+	position: relative;
+	left: 60%;
+	top: 80px;
+}
+.puerta{
+	width: 80px;
+	height: 90px;
+	background: #33ccff;
+	position: relative;
+	top: -5px;
+	left: 51%
+}
+.chimenea{
+	width: 50px;
+	height: 60px;
+	background-color: #cc00cc;
+	position: relative;
+	left: 60%;
+	bottom: 230px
+}
+.humo_1{
+	width: 60px;
+     height: 60px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #cccccc;
+     position: relative;
+     left: 60%;
+     bottom: 360px;
+     border: 1px dotted #737373;
+}
+.humo_2{
+	width: 50px;
+     height: 50px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #cccccc;
+     position: relative;
+     left: 62%;
+     bottom: 450px;
+     border: 1px dotted #737373;
+}
+.humo_3{
+	width: 30px;
+     height: 30px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #cccccc;
+     position: relative;
+     left: 64%;
+     bottom: 510px;
+     border: 1px dotted #737373;
+}
+.sol{
+	background-color: #ffff00;
+	width: 100px;
+     height: 100px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     position: relative;
+     bottom: 650px;
+     left: 20%;
+}
+.nube_1{
+	width: 100px;
+     height: 100px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #ffffff;
+     position: relative;
+     bottom: 680px;
+     left: 20%
+}
+.nube_2{
+	width: 80px;
+     height: 80px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #ffffff;
+     position: relative;
+     bottom: 760px;
+     left: 18%
+}
+.nube_3{
+	width: 80px;
+     height: 80px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #ffffff;
+     position: relative;
+     bottom: 840px;
+     left: 24%
+}
+.nube_4{
+	width: 50px;
+     height: 50px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #ffffff;
+     position: relative;
+     bottom: 900px;
+     left: 28%
+}
